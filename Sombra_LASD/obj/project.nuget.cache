@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "x5zs1wRi+I7IqA5ESRQN6jaC9C0uYY8PyWQe3KxMXgPUwXGz2K37IlkEJqjuojSSAtKIRowKdvlfKLKzHftCyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cisco01\\Desktop\\DALS\\Sombra_LASD\\Sombra_LASD\\Sombra_LASD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cisco01\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cisco01\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\cisco01\\.nuget\\packages\\sharpnado.shadows\\1.2.1\\sharpnado.shadows.1.2.1.nupkg.sha512",
+    "C:\\Users\\cisco01\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cisco01\\.nuget\\packages\\thomaslevesque.weakevent\\4.1.0\\thomaslevesque.weakevent.4.1.0.nupkg.sha512",
+    "C:\\Users\\cisco01\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\cisco01\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:sh ="clr-namespace:Sharpnado.Shades;assembly=Sharpnado.shadows"
+             x:Class="Sombra_LASD.Sombra">
+
+    <Grid>
+
+        <StackLayout Orientation="Vertical"
+                     VerticalOptions="Center">
+
+            <sh:Shadows CornerRadius="50" Shades="{sh:SingleShade Offset='15,10',
+                Opacity=0.7, Color=#1588C6}">
+
+                <ImageButton WidthRequest="100"
+                             HeightRequest="100"
+                             HorizontalOptions="Center"
+                             VerticalOptions="Center"
+                             BackgroundColor="#1588C6"
+                             Source="https://i.ibb.co/6JH5fbg/gesto-manual.png"
+                             CornerRadius="50"
+                             Padding="13">
+                </ImageButton>
+
+            </sh:Shadows>
+
+            <sh:Shadows CornerRadius="15" Shades="{sh:SingleShade Offset='0,10',
+                Opacity=0.7, Color=#1588C6}">
+
+                <Frame WidthRequest="60"
+                       HeightRequest="60"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center"
+                       Background="#cc99ff"
+                       CornerRadius="15">
+                    <Image Source="https://i.ibb.co/zrVR6c6/kpop.png"/>
+
+                </Frame>
+
+            </sh:Shadows>
+
+        </StackLayout>
+
+    </Grid>
+    
+</ContentPage>
